@@ -1,0 +1,3 @@
+name: dset
+depend: agda-stdlib
+include: .
