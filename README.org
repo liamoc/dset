@@ -1,8 +1,8 @@
-* `DSet` 
+* ~DSet~
 
 This library provides a simple formalisation of (small, decidable) sets in Agda, along with a set of useful lemmas and a 
 notion of set equivalence, and equational reasoning tools.
 
-The library itself provides examples of its use, for example in the definitions of `∩-absorb` and similar.
+The library itself provides examples of its use, for example in the definitions of ~∩-absorb~ and similar.
 
  
